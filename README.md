@@ -3,12 +3,9 @@ A food identification repository
 
 Python3.10
 
-To install the necessary modules and libraries, you can enter ```python
-python app``` in the directory.
+To install the necessary modules and libraries, you can enter‘pip install -r requirements.txt’in the directory.
 
-Run the app.py program directly.```python
-python app.py
-```
+Run the app.py program directly.python app.py
 
 Access the address http://127.0.0.1:5000.
 
