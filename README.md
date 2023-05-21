@@ -16,3 +16,5 @@ ave the uploaded image in the static folder.
 A trained model is provided, but its performance is not very strong. The model can be found at the following link: https://www.kaggle.com/code/mrakash/food-recognize/output.
 
 Regarding training, you can store the training dataset in the 'train' folder and the testing dataset in the 'test' folder. Then, run the food_classification.py.————python food_classification.py
+
+The training dataset is sourced from Food-101 and can be found at the following link: https://www.kaggle.com/datasets/kmader/food41/code?resource=download.
