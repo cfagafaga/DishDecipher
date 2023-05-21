@@ -3,9 +3,12 @@ A food identification repository
 
 Python3.10
 
-To install the necessary modules and libraries, you can enter ```python
-pip install -r requirements.txt
-``` in the directory.
+To install the necessary modules and libraries, you can enter ```python hl_lines=2,4
+print("Hello, World!")
+print("This line will be highlighted")
+print("Hello again!")
+print("This line will also be highlighted")
+```in the directory.
 
 Run the app.py program directly.```python
 python app.py
